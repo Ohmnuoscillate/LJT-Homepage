@@ -1,3 +1,5 @@
-# probe: config word
-# ~> path: /tags/
+# probe 2
 title: "probe"
+url: https://ohmnuoscillate.github.io
+baseurl: "/LJT-Homepage"
+repository: "Ohmnuoscillate/LJT-Homepage"
